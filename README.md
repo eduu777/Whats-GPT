@@ -1,4 +1,4 @@
-#Whats-GPT
+# Whats-GPT
 
 O projeto tem como função implementar o ChatGPT para fazer as saudações no WhatsApp, e pode ser personalizado para qualquer empresa ou negócio, fiz como exemplo uma Assistência chamada Edu Informática.
 
